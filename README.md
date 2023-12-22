@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew Gerace (@mattjgerace)
-- 👀 I currently work as a Backend engineer at [Annalect](https://www.annalect.com/) 
+- 👀 I currently work as a Backend Engineer at [Annalect](https://www.annalect.com/) 
 - 🌱 I am passionate about Backend, Full Stack Software Engineering, and Sports Analytics
 - 📫 matthewjgerace@gmail.com
 
