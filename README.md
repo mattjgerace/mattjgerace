@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Gerace (@mattjgerace)
-- 👀 I’m a student at the University of Virginia studying Computer Science and Statistics
-- 🌱 I’m currently interested in Backend and Full Stack Software Engineering
+- 👀 I currently work as a Backend engineer at [Annalect](https://www.annalect.com/) 
+- 🌱 I am passionate about Backend, Full Stack Software Engineering, and Sports Analytics
 - 📫 matthewjgerace@gmail.com
 
 <!---
